@@ -6,6 +6,11 @@
 
 ---
 
+<img width="832" height="1248" alt="Reality is a Loom" src="https://github.com/user-attachments/assets/a93d3742-4545-4a21-a209-78f1538581a9" />
+
+
+---
+
 ## What if reality isn't built...
 
 ...but woven?
