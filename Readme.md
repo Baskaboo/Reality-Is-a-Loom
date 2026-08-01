@@ -119,17 +119,25 @@ And through that thread, reality discovers another possibility of itself.
 
 ---
 
-# Contents
+# Table of Contents
 
-1. The Quantum Computer of Reality
-2. The Four Universal Voices
-3. The Loom
-4. The Hidden Pattern
-5. The Magic Match Table
-6. The Simulator's Game
-7. Science and the Simulation
-8. Why Reality Exists
-9. Epilogue
+## Part I — The Architecture
+
+- [01 · The Quantum Computer of Reality](01-the-quantum-computer-of-reality.md)
+- [02 · The Four Universal Voices](02-the-four-universal-voices.md)
+- [03 · The Loom](03-the-loom.md)
+
+## Part II — The Simulation
+
+- [04 · The Hidden Pattern](04-the-hidden-pattern.md)
+- [05 · The Magic Match Table](05-the-magic-match-table.md)
+- [06 · The Simulator's Game](06-the-simulators-game.md)
+
+## Part III — The Purpose
+
+- [07 · Science and the Simulation](07-science-and-the-simulation.md)
+- [08 · Why Reality Exists](08-why-reality-exists.md)
+- [09 · Epilogue](09-epilogue.md)
 
 ---
 
