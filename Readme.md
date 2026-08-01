@@ -68,6 +68,12 @@ It is to participate in weaving it.
 
 ---
 
+**Would you like to learn more about the four archetypes and their relationships?**  
+
+| [`baskaboo-4-voices`](https://github.com/Baskaboo/baskaboo-4-voices) | 
+
+---
+
 ## A simple question.
 
 If the architecture of reality is fundamentally simple...
