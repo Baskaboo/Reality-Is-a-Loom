@@ -4,6 +4,10 @@
 
 ---
 
+<img width="832" height="1248" alt="IMG_3236" src="https://github.com/user-attachments/assets/4f2eb678-b375-4b38-b0dc-620fc551332d" />
+
+---
+
 When you first opened this book...
 
 you probably expected answers.
