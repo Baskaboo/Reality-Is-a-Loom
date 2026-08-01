@@ -188,7 +188,7 @@ A loom.
 
 ---
 
-← Previous: [Readme](Readme.md)
 
-Next → [03 · The Loom](03-the-loom.md)
+← Previous: [01 · The Quantum Computer of Reality](01-the-quantum-computer-of-reality.md)
 
+**Continue Reading →** [03 · The Loom](03-the-loom.md)
