@@ -154,6 +154,6 @@ That is where the journey begins.
 ---
 
 
-← Previous: [README](README.md)
+← Previous: [Readme](Readme.md)
 
 Next → [The Four Universal Voices](02-the-four-universal-voices.md)
